@@ -16,4 +16,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathur-prerit&show_icons=true&layout=compact&hide_border=true&theme=monokai"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mathur-prerit&hide_border=true&theme=monokai" />
+
+![](https://activity-graph.herokuapp.com/graph?username=mathur-prerit&theme=react-dark)
  
