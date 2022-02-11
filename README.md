@@ -5,11 +5,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mathur.prerit/)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mathur-prerit.mathur-prerit&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=mathur-prerit)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=mathur-prerit.mathur-prerit&style=flat-square&color=0088cc) -->
 
 ### Profile Stats:
 
-<!-- ![](https://komarev.com/ghpvc/?username=mathur-prerit) -->
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathur-prerit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=monokai" />
 
