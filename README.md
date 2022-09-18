@@ -1,8 +1,9 @@
 ## Hey 👋, I'm [Prerit Mathur!](https://github.com/mathur-prerit/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mathur-prerit)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.preritmathur.tech/)
+[![Leetcode Badge](https://img.shields.io/badge/LeetCode-3be998?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/mathur-prerit/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mathur.prerit/)
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.preritmathur.tech/) -->
 
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=mathur-prerit)
